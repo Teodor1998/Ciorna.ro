@@ -1,0 +1,13 @@
+D:\MyApps\ciorna\ciorna\bin\Debug\ciorna.exe.config
+D:\MyApps\ciorna\ciorna\bin\Debug\ciorna.exe
+D:\MyApps\ciorna\ciorna\bin\Debug\ciorna.pdb
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.csprojAssemblyReference.cache
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.Properties.Resources.resources
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.csproj.GenerateResource.cache
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.csproj.CoreCompileInputs.cache
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.exe
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.pdb
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.MainForm.resources
+D:\MyApps\ciorna\ciorna\bin\Debug\Newtonsoft.Json.dll
+D:\MyApps\ciorna\ciorna\bin\Debug\Newtonsoft.Json.xml
+D:\MyApps\ciorna\ciorna\obj\Debug\ciorna.csproj.CopyComplete
